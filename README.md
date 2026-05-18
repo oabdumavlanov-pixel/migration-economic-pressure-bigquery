@@ -54,3 +54,7 @@ This project demonstrates cloud-based SQL analytics workflows using Google BigQu
 
 ### Example Analytical Query
 The project applies SQL window functions to compare country-level indicator changes across structured international datasets.
+
+## Example BigQuery Workflow
+
+![BigQuery Query](bigquery_window_function_query.png)
