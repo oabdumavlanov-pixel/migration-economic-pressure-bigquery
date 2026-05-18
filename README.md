@@ -1,3 +1,11 @@
+PROJECTS
+
+BigQuery + Python Analysis of Migration, Demographics, and Economic Pressure | GitHub
+● Built BigQuery analytical workflows using SQL window functions and World Bank datasets, performing cross-country economic trend analysis and cloud-based data transformation
+● Applied SAFE_CAST, LAG(), and PARTITION BY functions to clean and analyze international development indicators within Google Cloud
+● Developed GitHub-hosted analytics project integrating BigQuery, SQL, Python, and data visualization workflows for migration and demographic analysis
+
+
 # migration-economic-pressure-bigquery
 BigQuery + Python analysis of migration, demographics, and economic pressure using World Bank data
 # BigQuery + Python Analysis of Migration, Demographics, and Economic Pressure
