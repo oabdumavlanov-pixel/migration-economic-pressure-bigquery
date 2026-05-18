@@ -32,10 +32,6 @@ BigQuery → SQL Analytics → Python Processing → Visualization → GitHub Do
 - Developed Python analytics scripts using pandas and matplotlib for downstream analysis and visualization
 - Structured cloud-based analytical pipelines for migration and economic trend analysis
 
-## BigQuery SQL Workflow
-
-![BigQuery Query](visuals/bigquery_window_function_query.png)
-
 ## Query Results
 
 ![Query Results](visuals/query_results.png)
