@@ -29,3 +29,17 @@ Which countries show increasing migration pressure based on demographic and econ
 - Unemployment
 - Urban population growth
 - Youth population share
+
+## BigQuery SQL Analytics
+
+This project demonstrates cloud-based SQL analytics workflows using Google BigQuery and World Bank datasets.
+
+### Techniques Used
+- SQL window functions (LAG)
+- SAFE_CAST transformations
+- Cross-country indicator analysis
+- Time-series trend evaluation
+- Cloud-based analytical querying
+
+### Example Analytical Query
+The project applies SQL window functions to compare country-level indicator changes across structured international datasets.
