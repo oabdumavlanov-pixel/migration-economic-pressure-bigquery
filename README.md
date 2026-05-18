@@ -8,53 +8,34 @@ BigQuery + Python Analysis of Migration, Demographics, and Economic Pressure | G
 
 ● Developed GitHub-hosted analytics project integrating BigQuery, SQL, Python, and data visualization workflows for migration and demographic analysis
 
-
-# migration-economic-pressure-bigquery
-BigQuery + Python analysis of migration, demographics, and economic pressure using World Bank data
 # BigQuery + Python Analysis of Migration, Demographics, and Economic Pressure
 
-This project analyzes migration and economic pressure trends using World Bank and international development datasets.
+This project demonstrates cloud-based SQL analytics workflows using Google BigQuery, Python, and World Bank datasets to analyze migration, demographic, and economic indicators across countries.
 
-The project demonstrates:
-- BigQuery SQL analytics
-- SQL window functions
-- Python pandas analysis
-- Data visualization
-- Cross-country economic analysis
+## Tech Stack
 
-## Tools
-- BigQuery
+- Google BigQuery
 - SQL
 - Python
 - pandas
 - matplotlib
-- Jupyter Notebook
+- GitHub
 
-## Research Question
-Which countries show increasing migration pressure based on demographic and economic indicators?
+## Workflow
 
-## Metrics
-- GDP per capita
-- Population growth
-- Net migration
-- Unemployment
-- Urban population growth
-- Youth population share
+BigQuery → SQL Analytics → Python Processing → Visualization → GitHub Documentation
 
-## BigQuery SQL Analytics
+## Key Features
 
-This project demonstrates cloud-based SQL analytics workflows using Google BigQuery and World Bank datasets.
+- Built BigQuery analytical workflows using SQL window functions and World Bank datasets
+- Applied SAFE_CAST, LAG(), and PARTITION BY functions for large-scale data transformation
+- Developed Python analytics scripts using pandas and matplotlib for downstream analysis and visualization
+- Structured cloud-based analytical pipelines for migration and economic trend analysis
 
-### Techniques Used
-- SQL window functions (LAG)
-- SAFE_CAST transformations
-- Cross-country indicator analysis
-- Time-series trend evaluation
-- Cloud-based analytical querying
+## BigQuery SQL Workflow
 
-### Example Analytical Query
-The project applies SQL window functions to compare country-level indicator changes across structured international datasets.
+![BigQuery Query](visuals/bigquery_window_function_query.png)
 
-## Example BigQuery Workflow
+## Query Results
 
-![BigQuery Query](bigquery_window_function_query.png)
+![Query Results](visuals/query_results.png)
